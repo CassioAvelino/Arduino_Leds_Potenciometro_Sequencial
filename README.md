@@ -28,5 +28,8 @@ O Código possui duas formas de acender os Leds:
 🔀 Para alterar: encontre a variavel int tipoEscala e alterar seu valor: [1] ou [2].
 ```
 
+## 🏗️ Montagem:
+>//Exibir uma Imagem do circuito aqui!
+
 ## 🛞 Funcionalidade:
 >//Exibir um GIF aqui!
