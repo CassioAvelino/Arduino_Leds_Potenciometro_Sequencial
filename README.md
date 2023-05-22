@@ -20,7 +20,7 @@ Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de
 3. Abra a área de código
 4. Copie e Cole o conteudo do arquivo Potenciometro_Sequencia.cpp
 ```
-### 🚨 Observação:
+#### 🚨 Observação:
 O Código possui duas formas de acender os Leds:
 ```CPP
 1️⃣ Unitário: Apenas um Led acesso e todo os restantes apagados.
