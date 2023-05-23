@@ -1,3 +1,4 @@
+> *"⁠Não sou perfeccionista, mas gosto de sentir que as coisas são bem feitas. Mais do que isso, sinto uma necessidade infinita de aprender, melhorar, me envolver, não apenas para agradar o treinador e os torcedores, mas também para me sentir satisfeito."* - *Cristiano Ronaldo*
 # Arduino_Leds_Potenciometro_Sequencial
 Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Potenciômetro que ao variar sua faixa acende diferentes Leds em sequencia.<br><br>
 💡Explicação: O Potenciômetro é um equipamento cuja sua resistência varia de acordo com a posição no cursor. Os Leds estão configurados em faixas diferentes, a medida que o Potenciômetro varia, os Leds acendem e permanecem acesso, após o próximo.<br>
